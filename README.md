@@ -1,11 +1,19 @@
 # CallCentreDesign
 A call centre with features like :
+
+
 1)Customer can start a call
+
+
 2)Customer can end a call
+
+
+
 3)If a person in lower level hierarchy is not free--> call can be tranfered to the persons higher in hierarchy !!
 
 
-Feature yet to implement: 
+Feature yet to implement:
+
 If a perosn lower in hierarchy cant handle the call he must transfer it to a person higher in hierarchy !!
 
 
